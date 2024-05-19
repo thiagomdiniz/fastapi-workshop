@@ -169,6 +169,7 @@ python-multipart
 psycopg2-binary
 alembic
 rich
+pydantic<2
 ```
 
 A partir deste arquivo vamos gerar um `requirements.txt` com os locks das
